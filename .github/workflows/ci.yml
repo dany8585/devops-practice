@@ -14,5 +14,8 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Say Hello
-      run: echo "🎉 Hello from CI/CD! Your code was pushed successfully."
+    - name: List files
+      run: ls -R
+
+    - name: Run backup script
+      run: bash backup.sh
