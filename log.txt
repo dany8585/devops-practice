@@ -1,0 +1,15 @@
+[2025-06-09 13:56:32] גיבוי נוצר: backup-test_backup_20250609-135632
+[2025-06-09 13:56:34] גיבוי נוצר: backup-test_backup_20250609-135634
+[2025-06-09 13:56:34] גיבוי נוצר: backup-test_backup_20250609-135634
+[2025-06-09 13:56:53] גיבוי נוצר: backup-test_backup_20250609-135653
+[2025-06-09 14:00:55] גיבוי נוצר: backup-test_backup_20250609-140055
+🧹 גיבויים ישנים נמחקו (אם היו כאלה)
+[2025-06-09 14:00:56] גיבוי נוצר: backup-test_backup_20250609-140056
+🧹 גיבויים ישנים נמחקו (אם היו כאלה)
+[2025-06-09 14:00:57] גיבוי נוצר: backup-test_backup_20250609-140057
+🧹 גיבויים ישנים נמחקו (אם היו כאלה)
+[Mon Jun  9 15:07:54 IDT 2025] Created backup: backup_2025-06-09_15-07-54.tar.gz
+[Mon Jun  9 15:13:46 IDT 2025] Created backup: backup_2025-06-09_15-13-46.tar.gz
+[Mon Jun  9 15:15:33 IDT 2025] Created backup: backup_2025-06-09_15-15-33.tar.gz
+[Mon Jun  9 15:18:31 IDT 2025] Created backup: backup_2025-06-09_15-18-31.tar.gz
+[Mon Jun  9 15:18:31 IDT 2025] Old backups older than 7 days removed.
