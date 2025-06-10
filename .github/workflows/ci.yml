@@ -22,6 +22,6 @@ jobs:
 
     - name: Run backup script
       run: bash backup.sh
-	
+
     - name: Say Hello
       run: echo "🎉 Hello from CI/CD! Your code was pushed successfully."
