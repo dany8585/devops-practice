@@ -17,5 +17,11 @@ jobs:
     - name: List files
       run: ls -R
 
+    - name: Check README_BACKUP.md exists
+      run: test -f backup/README_BACKUP.md
+
     - name: Run backup script
       run: bash backup.sh
+	
+    - name: Say Hello
+      run: echo "🎉 Hello from CI/CD! Your code was pushed successfully."
